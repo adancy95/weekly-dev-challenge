@@ -4,7 +4,7 @@ This repo is a place to store the weekly dev challenges from scrimba. The weekly
 
 [Scrimba Weekly Challenge](https://scrimba.com/learn/weeklychallenge)
 
-###Todo:
+### Todo:
 
 - String Calculator
 - Fix the form!
@@ -12,8 +12,8 @@ This repo is a place to store the weekly dev challenges from scrimba. The weekly
 - Logo Editor
 - News Cards
 
-###InProgress:
+### InProgress:
 
 - Emoji Rating
 
-###Completed:
+### Completed:
